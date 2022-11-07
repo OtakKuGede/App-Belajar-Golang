@@ -1,0 +1,5 @@
+package appbelajargolang
+
+func main (){
+	
+}
